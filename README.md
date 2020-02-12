@@ -2,6 +2,10 @@
 
 various resources about kubernetes that i done picked up
 
+## why do people call it k8s
+
+[stop being such a n2b](https://a11yproject.com/posts/a11y-and-other-numeronyms/)
+
 ## Tutorials
 
 - [Kubernetes for Full Stack Developers](https://www.digitalocean.com/community/curriculums/kubernetes-for-full-stack-developers)

@@ -8,6 +8,7 @@ various resources about kubernetes that i done picked up
 
 ## Tutorials
 
+- [Learning Kubernetes Basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/) - Official k8s tutorial
 - [Kubernetes for Full Stack Developers](https://www.digitalocean.com/community/curriculums/kubernetes-for-full-stack-developers)
 - [Getting Started With Kubernetes + Containers](https://www.digitalocean.com/community/meetup_kits/getting-started-with-containers-and-kubernetes-a-digitalocean-meetup-kit) - Assumes that you're using a cloud Kubernetes cluster from DigitalOcean, but you can do it locally.
 

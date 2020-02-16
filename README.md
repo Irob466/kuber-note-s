@@ -19,7 +19,8 @@ various resources about kubernetes that i done picked up
       - Not required if you are running on a DigitalOcean cluster.
       - Requires a hypervisor (install docs help with that).
 
-- [Game of Pods](https://dev.to/kodekloud/learn-kubernetes-by-playing-the-game-of-pods-43g4)
+- [Game of Pods](https://dev.to/kodekloud/learn-kubernetes-by-playing-the-game-of-pods-43g4) - Gamified tutorial that gives you various scenarios that require you to set up or debug k8s clusters.
+- [Deploying a Redis Cluster on Top of Kubernetes](https://rancher.com/blog/2019/deploying-redis-cluster/)
 
 ## Tools
 

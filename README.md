@@ -21,7 +21,7 @@ various resources about kubernetes that i done picked up
 
 - [Game of Pods](https://dev.to/kodekloud/learn-kubernetes-by-playing-the-game-of-pods-43g4) - Gamified tutorial that gives you various scenarios that require you to set up or debug k8s clusters.
 - [Deploying a Redis Cluster on Top of Kubernetes](https://rancher.com/blog/2019/deploying-redis-cluster/)
-- [What We've Learned Building a Multi-Region DBaaS On Kubernetes](https://www.cockroachlabs.com/community/tech-talks/cloud-native-rejekts-na-2019)
+- [What We've Learned Building a Multi-Region DBaaS On Kubernetes](https://www.cockroachlabs.com/community/tech-talks/cloud-native-rejekts-na-2019) - Maybe skip the first first minute since there's a mic issue at the beginning
 
 ## Tools
 
